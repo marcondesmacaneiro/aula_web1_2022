@@ -1,0 +1,14 @@
+.btn {
+    font-size: 1.2em;
+    box-sizing: border-box;
+    border-radius: 1;
+    padding: 3px;
+}
+
+.btn-primary {
+    background-color: blue;
+}
+
+.btn-danger {
+    background-color: red;
+}
