@@ -12,7 +12,7 @@
 
 <form>
     <input type="text" name="codigo" value="<?=$codigo?>" placeholder="digite">
-    <input type="text" name="nome" value="<?=$nome?>"> 
+    <input type="text" name="nome" value="<?=$nome?>">
     <input type="text" name="cidade" value="<?=$cidade?>">
     <input type="text" name="estado" value="<?=$estado?>">
     <input type="submit">
@@ -31,7 +31,7 @@
 
 <form method="post">
     <input type="text" name="codigo" value="<?=$codigo?>" placeholder="digite">
-    <input type="text" name="nome" value="<?=$nome?>"> 
+    <input type="text" name="nome" value="<?=$nome?>">
     <input type="text" name="cidade" value="<?=$cidade?>">
     <input type="text" name="estado" value="<?=$estado?>">
     <input type="submit" name="enviar">
